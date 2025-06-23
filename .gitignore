@@ -1,0 +1,12 @@
+**/__pycache__/
+
+datas/
+data/
+Data/
+
+myenv/
+
+temp/
+
+best_model.h5
+models_cache/
